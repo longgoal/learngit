@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git tracks changes of files
 creating a new branch is quick AND simple.
 master modify here and conflict fixed.
+feature3 added.

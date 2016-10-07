@@ -1,1 +1,2 @@
 pust test
+add /usr/bin/env

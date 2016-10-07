@@ -1,2 +1,2 @@
 pust test
-multi dev
+multi dev add /usr/bin/env
